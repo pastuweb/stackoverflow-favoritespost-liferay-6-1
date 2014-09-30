@@ -1,0 +1,51 @@
+
+li{
+	list-style: none;	
+}
+
+.container{
+	width: 430px;
+	float: left;
+	text-align:left;
+	margin:auto;
+	margin-top:20px;
+}
+
+.page_navigation , .alt_page_navigation{
+	padding-bottom: 10px;
+}
+
+.page_navigation a, .alt_page_navigation a{
+	padding:3px 5px;
+	margin:2px;
+	color:white;
+	text-decoration:none;
+	float: left;
+	font-family: Tahoma;
+	font-size: 13px;
+	background-color:#DB5C04;
+}
+.active_page{
+	background-color:white !important;
+	color:black !important;
+}	
+
+.content, .alt_content{
+	color: black;
+	font-size: 14px;
+}
+
+.content li, .alt_content li, .content > p{
+	padding: 5px
+}
+
+.pastuweb_score{
+	position:absolute;
+	right:0px;
+	color:#DB5C04;
+	font-weight:bold;
+}
+
+img{
+	border:0px;	
+}
