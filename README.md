@@ -1,5 +1,7 @@
 # stackoverflow-favoritespost-liferay-6-1
-Automatically exported from code.google.com/p/stackoverflow-favoritespost-liferay-6-1
+-
+It was a project shared by Google Code Hosting Projects.
+-
 
 This plugin uses the parser and scanner that analyze and recover some of the information associated with the url of interest. 
 
